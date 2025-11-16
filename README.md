@@ -40,5 +40,6 @@ In 1995: Precision was life In 2025: A tribute to curiosity and constraint-drive
 
 “AI doesn’t start with billion-parameter models. It starts with one hacker, one FPU register, and a dream.”
 
-— Anonymous 1995 Hacker → 2025 (Revived with Grok-4, November 16, 2025, Completed with Gemini 2.5 Pro, November 16, 2025)
+— Anonymous 1995 Hacker → 2025 
+(Revived with Grok-4, November 16, 2025, Completed with Gemini 2.5 Pro, November 16, 2025)
 
