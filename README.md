@@ -24,13 +24,13 @@ This repo **restores** that spirit using:
 
 ## Sample Output
 ```bash
-$ ./run.sh
+igkim@MacBook-Pro fpu87-neural-1995 % ./run.sh 
+--- Running Native Binary (./bin/perceptron) ---
 === 80387 Neural Perceptron (2025 Edition) ===
-Input: (0, 0) → Output: 0.0999999999 (expected 0.0)
-Input: (0, 1) → Output: 0.1999999999 (expected 0.0)
-Input: (1, 0) → Output: 0.3999999999 (expected 0.0)
-Input: (1, 1) → Output: 0.8999999999 (expected 1.0)
-
+Input: (0, 0) → Output: -0.0909090909 (expected 0.0)
+Input: (0, 1) → Output: 0.1666666667 (expected 0.0)
+Input: (1, 0) → Output: 0.3750000000 (expected 0.0)
+Input: (1, 1) → Output: 0.4736842105 (expected 1.0)
 ## Build & Run
 chmod +x build.sh run.sh
 ./build.sh
