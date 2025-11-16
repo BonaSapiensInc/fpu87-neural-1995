@@ -5,7 +5,7 @@ Back in 1995, on a 386 + 387 machine, a single developer hand-crafted a perceptr
 using **80-bit `long double`** on the x87 FPU — because every bit of precision mattered.
 
 This repo **restores** that spirit using:
-- `long double` with `-m128-long-double`
+- `long double` with `-m128-long-double`(may not working on your platform)
 - LLVM IR generation
 - JIT execution via `lli`
 - Original 1995-style x87 assembly
